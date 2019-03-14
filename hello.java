@@ -1,4 +1,4 @@
 publc class hello
 {
-	public Stirng main
+	public Stirng mainsdasdad
 }
